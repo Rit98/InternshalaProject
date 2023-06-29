@@ -1,0 +1,6 @@
+{
+  "name": "InternshalaProject",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {}
+}
